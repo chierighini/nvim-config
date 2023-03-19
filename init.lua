@@ -1,0 +1,2 @@
+require("chierighini")
+print("hello")
