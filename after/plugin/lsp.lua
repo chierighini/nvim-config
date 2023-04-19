@@ -13,6 +13,7 @@ lsp.ensure_installed({
 	'bashls',
 	'dockerls',
 	'gopls',
+	'pylsp',
 	'lua_ls',
 })
 
